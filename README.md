@@ -47,13 +47,17 @@ Notebook: ML Prediction
 # Key Findings
 1. ## Launch Success Trends
 📈 Success rates increased from 2013–2020.
+
 📍 Best Launch Site: KSC LC-39A (highest success rate).
+
 🛰️ Top Orbits: ES-L1, GEO, HEO, SSO, VLEO.
 
 2. ## SQL Insights
 🚀 First successful ground landing: Dec 22, 2015.
+
 ⚖️ NASA’s total payload mass: 45,596 kg.
 
 3. ## Predictive Model Performance
 ✅ Best Model: Decision Tree (~94% accuracy).
+
 ⚠️ Limitation: Some false positives (failures predicted as successes).
